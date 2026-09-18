@@ -1,0 +1,19 @@
+{
+  "search_domain": "de",
+  "countries": [
+    "germany"
+  ],
+  "makes": [
+    "Volkswagen"
+  ],
+  "models": [
+    "Golf"
+  ],
+  "conditions": [
+    "used"
+  ],
+  "price_to": 15000,
+  "first_registration_from": 2016,
+  "sort_by": "price",
+  "max_items": 300
+}
